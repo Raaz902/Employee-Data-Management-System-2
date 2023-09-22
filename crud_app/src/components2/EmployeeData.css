@@ -1,0 +1,35 @@
+
+.EmployeeDiv1{
+  display:flex; 
+  justify-content: space-between; 
+  border: 2px solid green; 
+  background-color: antiquewhite;  
+  margin: 10px;
+  height: 40px;
+  border-radius:10%;
+  text-size-adjust: 130%;
+  
+}
+.input{
+  display:flex; 
+  justify-content: space-between; 
+}
+#forFlex{
+  display: block;
+}
+
+.delete{
+  
+  right: 0;
+  font-weight: bold;
+}
+.edit{
+
+  left: 0;
+  font-weight: bold;
+}
+.dataDivs{
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
